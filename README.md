@@ -1,5 +1,5 @@
-<H3>Name:  Kaushika A</H3>
-<H3>Register No. : 212221230048</H3>
+<H3>Name:  Sai Darshan G</H3>
+<H3>Register No. : 212221240047</H3>
 <H3>Experiment 2</H3>
 <H3>Date : 24.02.2024</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
